@@ -44,6 +44,6 @@ Manual invoice creation is time-consuming and prone to errors in calculations. T
 - Improve UI with modern design  
 
 ## 👨‍💻 Author
-Madhuja Fatak
+Prathamesh Pise
 
 ⭐ If you like this project, give it a star on GitHub!
